@@ -2,12 +2,16 @@
 	"author": "Girja Sankar Tiwari",
 	"description": "mera backend wala project h ye aisa kaam kar dega kisi ne sochi na hogi jo joginder",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["freecodecamp","backend","focus"],
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"focus"
+	],
 	"license": "MIT",
 	"version": "1.2.2",
-	"dependencies": {	
+	"dependencies": {
 		"express": "^4.14.0",
-		"moment":"^2.14.0"
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
