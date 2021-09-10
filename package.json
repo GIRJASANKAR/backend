@@ -1,6 +1,6 @@
 {
 	"author": "Girja Sankar Tiwari",
-	"description": "mera backend wala project",
+	"description": "mera backend wala project h ye aisa kaam kar dega kisi ne sochi na hogi jo joginder",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
